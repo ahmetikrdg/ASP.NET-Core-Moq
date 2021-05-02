@@ -1,0 +1,9 @@
+C:\Users\Ahmet\OneDrive\Masaüstü\Unit-Test\UdemyXUnitTest.APP\UdemyUnitTest.APP\bin\Debug\netcoreapp3.1\UdemyUnitTest.APP.deps.json
+C:\Users\Ahmet\OneDrive\Masaüstü\Unit-Test\UdemyXUnitTest.APP\UdemyUnitTest.APP\bin\Debug\netcoreapp3.1\UdemyUnitTest.APP.dll
+C:\Users\Ahmet\OneDrive\Masaüstü\Unit-Test\UdemyXUnitTest.APP\UdemyUnitTest.APP\bin\Debug\netcoreapp3.1\UdemyUnitTest.APP.pdb
+C:\Users\Ahmet\OneDrive\Masaüstü\Unit-Test\UdemyXUnitTest.APP\UdemyUnitTest.APP\obj\Debug\netcoreapp3.1\UdemyUnitTest.APP.AssemblyInfoInputs.cache
+C:\Users\Ahmet\OneDrive\Masaüstü\Unit-Test\UdemyXUnitTest.APP\UdemyUnitTest.APP\obj\Debug\netcoreapp3.1\UdemyUnitTest.APP.AssemblyInfo.cs
+C:\Users\Ahmet\OneDrive\Masaüstü\Unit-Test\UdemyXUnitTest.APP\UdemyUnitTest.APP\obj\Debug\netcoreapp3.1\UdemyUnitTest.APP.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\OneDrive\Masaüstü\Unit-Test\UdemyXUnitTest.APP\UdemyUnitTest.APP\obj\Debug\netcoreapp3.1\UdemyUnitTest.APP.dll
+C:\Users\Ahmet\OneDrive\Masaüstü\Unit-Test\UdemyXUnitTest.APP\UdemyUnitTest.APP\obj\Debug\netcoreapp3.1\UdemyUnitTest.APP.pdb
+C:\Users\Ahmet\OneDrive\Masaüstü\Unit-Test\UdemyXUnitTest.APP\UdemyUnitTest.APP\obj\Debug\netcoreapp3.1\UdemyUnitTest.APP.csprojAssemblyReference.cache
